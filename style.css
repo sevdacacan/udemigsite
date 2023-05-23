@@ -1,0 +1,7 @@
+/*Body defaul ozellik ata */
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+
+}
